@@ -1,18 +1,18 @@
-# Infographics
-
-### Matt Malishev  
-### @darwinanddavis  
+# Infographics  
+### Matt Malishev | @darwinanddavis    
 
 ******      
 
 ## My First Year    
 
-Daily life for the first year of a 1-year-old using client data from the [Babytracker](https://play.google.com/store/apps/details?id=com.amila.parenting&hl=en_AU&gl=US) app.        
+Daily life for the first year of a 1-year-old using client data from the [Babytracker](https://play.google.com/store/apps/details?id=com.amila.parenting&hl=en_AU&gl=US) app. Data covers activity time, sleeping, feeding and meal type, breast/bottle feeding, bath/play time, pee/poo activity, body temperature and medicine intake measurements, and growth over time. Personal info within infographic is masked.               
 
 <h3><a style="color:#939DB9;" href="myfirstyear/img/myfirstyear.pdf">Click for full infographic</a></h3>  
 <div align="center">  
-  <img src="myfirstyear/img/myfirstyear.png" width="35%">  
+  <img src="myfirstyear/img/myfirstyear.png" width="50%">  
 </div>  
+
+Tools: `R`      
     
 <br>   
 <br>   

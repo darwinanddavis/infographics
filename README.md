@@ -10,7 +10,9 @@
   <img src="avianairstrike/avianairstrike.jpg" width="50%">  
 </div>    
  
-Tools: R, Rmd, Mapbox, HTML, CSS    
+<br>  
+
+Tools: `R`, `Rmd`, `Mapbox`, `HTML`, `CSS`      
     
 <br>   
 <br>    
@@ -25,6 +27,8 @@ Daily life for the first year of a 1-year-old using client data from the [Babytr
 <div align="center">  
   <img src="myfirstyear/img/myfirstyear.png" width="50%">  
 </div>  
+ 
+<br>  
 
 Tools: `R`      
     

@@ -97,6 +97,8 @@ zoom <- 4
 color <- "bw"
 darken <- 0.3
 
+
+df %>% glimpse
 # get google map
 base_map <-  get_map(extent, maptype = maptype,color = color, zoom = zoom)
 # base_map %>% saveRDS(here::here("data","damage","google_base_map.Rda"))
